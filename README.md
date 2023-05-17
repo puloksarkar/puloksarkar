@@ -2,7 +2,7 @@
 #### Staring Web Develop
 ![Staring Web Develop](https://scontent.xx.fbcdn.net/v/t1.15752-9/346156096_972163750621808_2414506856776993663_n.jpg?stp=dst-jpg_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_ohc=JAsGY0bfZogAX9ImkBT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSSY8b3FwrTywXl3LPyZX3NU4uxvNDn1qU6vAWpNsnHAA&oe=648A2648)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can use in your profile.
 
 Skills: HTML / CSS
 
